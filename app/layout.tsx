@@ -13,9 +13,6 @@ export const metadata: Metadata = {
   description:
     "Generate high-quality, targeted B2B leads using advanced tools. Accelerate your sales with our proven lead generation strategies and CRM integrations.",
   keywords: "B2B lead generation, targeted prospecting, sales acceleration, lead generation, B2B sales tools",
-  icons: {
-    icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
-  },
   openGraph: {
     title: "Datafabusa Solutions - B2B Lead Generation & Sales Acceleration",
     description: "Generate high-quality, targeted B2B leads using advanced tools.",
